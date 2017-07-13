@@ -1,0 +1,14 @@
+node_modules/
+.idea
+.idear/
+.htaccess
+.txt
+dist/
+dist-aot/
+dist-prod/
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+package.json
+.vscode
