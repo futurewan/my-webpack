@@ -1,11 +1,17 @@
-// var greeter = require('./Greeter.js');
-// document.getElementById('root').appendChild(greeter());
-// document.getElementById('root').innerText = "hell webpack!";
-import Library from './library';
+import Layer from './components/layer/layer.js';
+import mainstyle from './assets/css/main.css';
 
-if (module.hot) {
-  module.hot.accept('./library', function() {
-    console.log('Accepting the updated library module!');
-    Library.log();
-  })
+const App = function () {
+  var root = document.getElementById('root');
+  var main = document.createElement('div');
+  main.setAttribute('name','ho');
+  main.className = "main";
+
+  var layer = new Layer();
+  main.innerHTML = layer.tpl;
+  root.appendChild(main);
+
+  console.log(layer);
 }
+
+new App();
