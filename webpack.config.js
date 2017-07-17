@@ -41,6 +41,10 @@ module.exports = {
                 loader:"html-loader"
             },
             {
+                test:/\.tpl$/,
+                loader:"ejs-loader"
+            },
+            {
                 test: /\.css$/,
                 use: ['style-loader', 'css-loader', {
                     loader: 'postcss-loader',
