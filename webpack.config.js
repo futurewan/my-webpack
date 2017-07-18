@@ -65,6 +65,14 @@ module.exports = {
                 }, {
                     loader: "less-loader" // compiles Less to CSS
                 }]
+            },
+            {
+                test: /\.(png|jpg|gif|svg)$/i,
+                loader:"url-loader",
+                query:{
+                    limit:20000,
+                    name:'assets/[name]-[hash:5].[ext]'
+                }
             }
         ]
     },
