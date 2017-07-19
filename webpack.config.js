@@ -7,7 +7,7 @@ module.exports = {
 
     output: { //打包后文件
         path: path.join(__dirname, "dist"), // 存放的地方
-        filename: "js/[chunkhash].js" // 文件名
+        filename: "assets/js/[chunkhash].js" // 文件名
     },
     plugins: [
         // new webpack.HotModuleReplacementPlugin() // 启用 HMR
@@ -68,11 +68,10 @@ module.exports = {
             },
             {
                 test: /\.(png|jpg|gif|svg)$/i,
-                loader:"url-loader",
-                query:{
-                    limit:20000,
-                    name:'assets/[name]-[hash:5].[ext]'
-                }
+                loaders:[
+                    "url-loader?limit=1000&name=assets/images/[name]-[hash:5].[ext]",
+                    "image-webpack-loader"
+                ]
             }
         ]
     },
