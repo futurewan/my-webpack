@@ -7,10 +7,11 @@ module.exports = {
 
     output: { //打包后文件
         path: path.join(__dirname, "dist"), // 存放的地方
-        filename: "assets/js/[chunkhash].js" // 文件名
+        filename: "assets/js/[hash].js", // 文件名
+        publicPath: '/'
     },
     plugins: [
-        // new webpack.HotModuleReplacementPlugin() // 启用 HMR
+        new webpack.HotModuleReplacementPlugin(), // 启用 HMR
         new htmlWebpackPlugin({
             filename: 'index.html',
             template: 'index.html',
@@ -76,9 +77,9 @@ module.exports = {
         ]
     },
     devServer: {
-        // hot: true, // 告诉 dev-server 我们在使用 HMR
-        // contentBase: path.resolve(__dirname, 'src'),
-        // publicPath: '/'
+        hot: true, // 告诉 dev-server 我们在使用 HMR
+        contentBase: path.resolve(__dirname, 'src'),
+        publicPath: '/'
     }
     // --devtool eval：为你的代码创建源地址。当有任何报错的时候可以让你更加精确地定位到文件和行号
     // --progress：显示合并代码进度
