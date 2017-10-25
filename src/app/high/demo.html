@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div id="chart1" style="width:800px;height:400px"></div>
+</body>
+<script src="highcharts.js"></script>
+<script>
+    var charts = new Highcharts.Chart('chart1', {
+        chart: {
+            type: 'column'
+        },
+        xAxis: {
+            categories: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        },
+        series: [{
+            name: 'NC',
+            data: [7057, 6858, 6643, 6570, 6115, 107, 31, 635, 203, 2, 2]
+        }, {
+            name: 'OK',
+            data: [54047, 52484, 50591, 49479, 46677, 33, 156, 947, 408, 6, 2]
+        }, {
+            name: 'KO',
+            data: [11388, 11115, 10742, 10757, 10290, 973, 914, 4054, 732, 34, 2]
+        }, {
+            name: 'VALID',
+            data: [8836, 8509, 8255, 7760, 7621, 973, 914, 4054, 732, 34, 2]
+        }, {
+            name: 'CHECK',
+            data: [115, 162, 150, 187, 172, 973, 914, 4054, 732, 34, 2]
+        }, {
+            name: 'COR',
+            data: [12566, 12116, 11446, 10749, 10439, 973, 914, 4054, 732, 34, 2]
+        }]
+    });
+
+    var array = [1, 1, 1, 2, '11', '1', 1, 22, '11'];
+    function sortequre(value1,value2){
+        return value1-value2;
+    }
+    function unique(arr) {
+        var newArr = [],
+            oncemore = [],
+            numArr = [],
+            strArr = [];
+        for (var i = 0; i < arr.length; i++) {
+            if (newArr.indexOf(arr[i]) === -1) {
+                newArr.push(arr[i]);
+                if(typeof arr[i] === 'number'){
+                    numArr.push(arr[i]);
+                } else if(typeof arr[i] === 'string'){
+                    strArr.push(arr[i]);
+                }
+            } else if (oncemore.indexOf(arr[i]) === -1) {
+                oncemore.push(arr[i])
+            }
+        }
+        console.log(newArr,numArr,strArr);
+        // return newArr;
+    }
+
+    function sortUnique(arr){
+        var newArr = [],
+            sortArr = [],
+            numArr = [],
+            strArr = [];
+        sortArr = arr.sort(sortequre);
+        console.log(sortArr)
+    }
+    function unique2(arr,qwq) {
+        console.log(arguments,this,Array.isArray([]))
+        var ret = [];
+        var len = arr.length;
+        for(var i=0; i<len; i++){
+            for(var j=i+1; j<len; j++){
+                if(arr[i] === arr[j]){
+                    j = ++i;
+                }
+            }
+            ret.push(arr[i]);
+        }
+        return ret;
+    }
+    // console.log(array.filter(function(item,index,arr){
+    //     return arr.indexOf(item) === index;
+    // }))
+    // console.log(unique2(array,123));
+    console.log(unique2.call(this,array,123));
+</script>
+
+</html>
