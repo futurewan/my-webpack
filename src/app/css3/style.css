@@ -9,9 +9,27 @@
 	// border-image-outset:10px;
 }
 .box-shadow{
-	width:100px;
-	height: 50px;
+	width:410px;
+	height: 180px;
+
 	margin: 20px;
 	background: #f1f1f1;
-	box-shadow: 5px 5px 5px  #999;
+	box-shadow: inset 5px 5px 5px  #999;
+}
+
+.word-wrap{
+	overflow: hidden;
+	text-overflow:ellipsis;
+	word-wrap:break-word;
+	word-break:break-all;
+	// white-space: nowrap;
+}
+
+//不定宽高盒子上下左右居中
+.icenter{
+	display: inline-block;
+	background: #987;
+	margin-top: 50%;
+	margin-left: 50%;
+	transform:translate(-50%,-50%);
 }
