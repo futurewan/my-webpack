@@ -3,3 +3,6 @@
 #"files.associations": {
 #"*.tpl": "html"
 #}
+
+
+# --progress --colors --display-reasons --display-modules
