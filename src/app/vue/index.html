@@ -4,7 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="stylesheet" href="../bootstrap/bootstrap.css">
+    <style>
+    	body{padding-top: 50px}
+    </style>
 </head>
 
 <body>
@@ -29,18 +34,41 @@
             <!--/.nav-collapse -->
         </div>
     </nav>
-    <div class="container">
+    <div id="app" class="container">
         <div class="starter-template">
-            <h1>Bootstrap starter template</h1>
-            <p class="lead">Use this document as a way to quickly start any new project.
-                <br> All you get is this text and a mostly barebones HTML document.</p>
-        </div>
+            <h1>{{message}}</h1>
+            <input type="text" name="name" v-model="message">
+            <ul>
+            	<li v-for="todo in todos">
+            		id:{{todo.id}} name:{{todo.name}}
+            	</li>
+            </ul>
+            <form v-on:submit.prevent="addToDO(newtodo)">
+            	<input type="text" v-model="newtodo.name">
+            	<button type="submit">add</button>
+
+            </form>
     </div>
-    <script src="./vue.js">
-   		
-    </script>
+    <script src="./vue.js"></script>
     <script>
-    	
+    new Vue({
+        el: '#app',
+        data: {
+            message: 'hello',
+            todos:[
+            	{id:11,name:'lili'},
+            	{id:22,name:'yiyi'}
+            ],
+	        newtodo:{id:null,name:''}
+        },
+        methods:{
+        	addToDO:function(newtodo){
+        		this.todos.push(newtodo);
+        		this.newtodo = {id:null,name:''};
+        	}
+        }
+
+    });
     </script>
 </body>
 
