@@ -21,10 +21,26 @@ module.exports = {
                 // collapseWhitespace: true
             }
         })
+        // new WebPlugin({
+        //  // html模版文件路径（相对于webpack.config.js的完整路径）
+        //          template: './h5/events/store/index.html',
+        //          // 输出的html文件名称或路径，必填，注意不要重名，重名会覆盖相互文件
+        //          filename: 'store.html',
+        //          //该html文件依赖的entry，必须是一个数组。依赖的资源的注入顺序按照数组的顺序
+        //          // requires:['store']
+        //    }),
+        // new HtmlWebpackPlugin({
+        //  filename:'./store.html', //打包后文件
+        //  template:path.join(__dirname,'h5/events/store/index.html') //模版文件
+        //  inject: true, // js插入的位置，true/'head'/'body'/false
+        //     hash: true, // 为静态资源生成hash值
+        //     chunks: ['vendors', 'about'], // 需要引入的chunk，不配置就会引入所有页面的资源
+        //     minify: { // 压缩HTML文件
+        //       removeComments: true, // 移除HTML中的注释
+        //       collapseWhitespace: false // 删除空白符与换行符
+        //     }
+        // })
     ],
-
-
-
     module: {
         rules: [
             {

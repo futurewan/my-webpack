@@ -1,0 +1,1687 @@
+[
+    {
+        "method": "BrandRpc.getBrandListV2",
+        "result": {
+            "code": "0",
+            "msg": "",
+            "data": {
+                "isLastPage": 0,
+                "pageOffset": 60,
+                "totalCount": 700,
+                "isOperationSuccess": 1,
+                "brands": [
+                    {
+                        "brand_id": "9558963",
+                        "brand_name": "\u7f8e\u5bb6\u590d\u82cf\u5b63",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165600",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/kCXYhaVIjjgmb50LZ8OFZg.php?wapid=mst_4022402&_src=mst&page_msg=VIP_SH-all-onsale&extra_banner=9558963&mst_cdi=1&extra_type=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/13/148/bf2b17e733b94515328878a342cc0784_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/13/148/bf2b17e733b94515328878a342cc0784_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/kCXYhaVIjjgmb50LZ8OFZg.php&h=mst.vip.com&wapid=mst_4022402&page_msg=VIP_SH-all-onsale&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FkCXYhaVIjjgmb50LZ8OFZg.php%3Fwapid%3Dmst_4022402%26_src%3Dmst%26page_msg%3DVIP_SH-all-onsale%26extra_banner%3D9558963%26mst_cdi%3D1%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "9571100",
+                        "brand_name":
+                            "VIP\u4e13\u5c5e\u65e5-\u521d\u6625\u65f6\u9ae6\u7279\u8f91",
+                        "sell_time_from": "1520942400",
+                        "sell_time_to": "1521201599",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/HUs5LxHiq4EusYeMRgHW8g.php?wapid=mst_4189080&_src=mst&page_msg=VIP_SH-all-onsale&extra_banner=9571100&mst_cdi=1&extra_type=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/13/43/83aa66e5a650abc5f0ec66484ca76eb5_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/13/43/83aa66e5a650abc5f0ec66484ca76eb5_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/HUs5LxHiq4EusYeMRgHW8g.php&h=mst.vip.com&wapid=mst_4189080&page_msg=VIP_SH-all-onsale&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FHUs5LxHiq4EusYeMRgHW8g.php%3Fwapid%3Dmst_4189080%26_src%3Dmst%26page_msg%3DVIP_SH-all-onsale%26extra_banner%3D9571100%26mst_cdi%3D1%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "backgroundCol": "",
+                        "backgroundPic": "",
+                        "motion": "NONE",
+                        "block": [
+                            {
+                                "cell": "row",
+                                "size": 100,
+                                "wapsize": 100,
+                                "child": [
+                                    {
+                                        "cell": "col",
+                                        "size": 100,
+                                        "wapsize": 100,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831411,
+                                            "imageUrl":
+                                                "//a3.vimage1.com/upload/flow/2018/03/12/19/15208229249919.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2Fd683eOi0wEG-Xu2YnaCodQ.php%3Fwapid%3Dmst_4142806%26_src%3Dmst%26page_msg%3DVIP_NH-all-onsale%26extra_banner%3D%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5602698",
+                                                "adsBannerId": "467567",
+                                                "groupId": "155407",
+                                                "imageIds": "5602698"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5602698",
+                                                    "path":
+                                                        "http://a.vpimg3.com/upload/flow/2018/03/12/19/15208229249919.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "7aaf7725104c8cfe288b0ab8e37c31f8",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/d683eOi0wEG-Xu2YnaCodQ.php?wapid=mst_4142806&_src=mst&page_msg=VIP_NH-all-onsale&extra_banner=&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/d683eOi0wEG-Xu2YnaCodQ.php&h=mst.vip.com&wapid=mst_4142806&mst_page_type=guide&page_msg=VIP_NH-all-onsale&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "layout_type": "col_in_row",
+                        "align_type": 0,
+                        "isOperation": 1,
+                        "code": "3282054",
+                        "operateType": "operate"
+                    },
+                    {
+                        "backgroundCol": "",
+                        "backgroundPic": "",
+                        "motion": "NONE",
+                        "block": [
+                            {
+                                "cell": "row",
+                                "size": 100,
+                                "wapsize": 100,
+                                "child": [
+                                    {
+                                        "cell": "col",
+                                        "size": 100,
+                                        "wapsize": 100,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831412,
+                                            "imageUrl":
+                                                "//a3.vimage1.com/upload/flow/2018/02/01/4/15174677346440.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FJMfaAQ3AMfG2yE9pohciLA.php%3Fwapid%3Dmst_4106831%26_src%3Dmst%26page_msg%3DVIP_NH-all-all%26extra_banner%3D9479185%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5529861",
+                                                "adsBannerId": "445023",
+                                                "groupId": "155409",
+                                                "imageIds": "5529861"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5529861",
+                                                    "path":
+                                                        "http://a.vpimg3.com/upload/flow/2018/02/01/4/15174677346440.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "335501d27d04c5d08e7584428ee32c55",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/JMfaAQ3AMfG2yE9pohciLA.php?wapid=mst_4106831&_src=mst&page_msg=VIP_NH-all-all&extra_banner=9479185&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/JMfaAQ3AMfG2yE9pohciLA.php&h=mst.vip.com&wapid=mst_4106831&mst_page_type=guide&page_msg=VIP_NH-all-all&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "layout_type": "col_in_row",
+                        "align_type": 0,
+                        "isOperation": 1,
+                        "code": "3282056",
+                        "operateType": "operate"
+                    },
+                    {
+                        "brand_id": "2108197",
+                        "brand_name":
+                            "\u5b89\u745e\u4e95ORIGIN\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165600",
+                        "agio":
+                            "<span class=\"salebg2\">0.4</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/12/25/ias_152084385774583_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/34/ias_152058423274030_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1498\u5143\u51cf100\u5143,\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10005914",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/b80e0a69b3d14ffaa3c02fbdc6cca4b7/10005914/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2108197-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2108197&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2404179",
+                        "brand_name":
+                            "\u5468\u751f\u751f\u73e0\u5b9d\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165599",
+                        "agio": "",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/09/156/ias_152058744083484_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/54/ias_152057977656168_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1980\u51cf100\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10003235",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/f7307730390742a19b76bdc82e58b451/10003235/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2404179-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2404179&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2457134",
+                        "brand_name":
+                            "\u9edb\u5b89\u82ac\u96c6\u56e2\u6df7\u5408\u54c1\u724c\u5185\u8863\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165600",
+                        "agio":
+                            "<span class=\"salebg2\">1.9</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/13/117/ias_152092744657979_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/12/30/ias_152082651355138_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee12\u4ef6\u62538\u6298,\u6ee13\u4ef6\u62537.5\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000346",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/f18e3ae1c55f4bafb971498502f05115/10000346/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2457134-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2457134&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2351409",
+                        "brand_name":
+                            "100\u5143\u7ea2\u5305\u9650\u91cf\u79d2\u6740+2\u4ef68\u6298\uff01\u63a5\u543b\u732bKISSCAT\u5973\u978b\u5305\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521511140",
+                        "agio":
+                            "<span class=\"salebg2\">2.2</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/09/51/ias_152059562383839_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/12/28/ias_152083252185928_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62538.5\u6298,\u6ee12\u4ef6\u62538\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000456",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/c8101fe917b24f1496586c431b37370e/10000456/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2351409-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2351409&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2378146",
+                        "brand_name":
+                            "\u91d1\u5229\u6765Goldlion\u7537\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521338399",
+                        "agio":
+                            "<span class=\"salebg2\">1.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/09/134/ias_152059981915981_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/106/ias_152057758693834_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1398\u5143\u51cf100\u5143,\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000466",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/d8f8c4fe8b29446aba536d8076f8a680/10000466/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2378146-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2378146&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2415019",
+                        "brand_name":
+                            "\u7f8e\u7279\u65af\u90a6\u5a01\u5973\u88c5\u4e13\u573a-\u60ca\u559c\u8d2d5\u6298",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.3</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/06/21/ias_152030362654141_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/06/53/ias_152030362629837_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000601",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/725df51b424b49ee99f5668de7026030/10000601/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2415019-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2415019&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2171487",
+                        "brand_name":
+                            "\u9091\u54c1YIPIN\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165600",
+                        "agio":
+                            "<span class=\"salebg2\">0.7</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/02/09/33/ias_151817032089622_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/02/09/64/ias_151817032132081_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62538.5\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10015636",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/109a145c83874e6b99bed51fcd8052f8/10015636/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2171487-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2171487&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2413545",
+                        "brand_name":
+                            "\u601d\u84d3\u513f\u5973\u88c5\u949c\u60e0\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521079199",
+                        "agio":
+                            "<span class=\"salebg2\">1.1</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/02/08/38/ias_151808213474769_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/02/08/45/ias_151808018299350_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10007424",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": null,
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/d95672b1c98648a0836a4faca720fa40/10007424/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2413545-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2413545&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2181060",
+                        "brand_name":
+                            "\u4f73\u4eba\u82d1jry\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165600",
+                        "agio":
+                            "<span class=\"salebg2\">0.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/10/1/ias_152066579255194_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/13/169/ias_152091267695955_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62538\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10021950",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/4aa395b0aaf946b9a687437eb62799ea/10021950/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2181060-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2181060&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2416260",
+                        "brand_name":
+                            "AMII\u5973\u88c5\u6e05\u4ed3\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521079199",
+                        "agio":
+                            "<span class=\"salebg2\">2.1</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/06/103/ias_152029943715156_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/02/27/137/ias_151972592717575_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10003862",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/e8b6297508ac4c61a3f4cc7f9fb23b28/10003862/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2416260-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2416260&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2413866",
+                        "brand_name":
+                            "\u6625\u590f\u6e05\u4ed3\u8fdb\u884c\u4e2dX2\u4ef64.5\u6298 1\u4ef65\u6298",
+                        "sell_time_from": "1519783200",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.3</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/07/56/ias_152039471553053_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/02/27/66/ias_151970174370958_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u7269\u5373\u4eab\u6298\u4e0a5\u6298\uff0c\u6ee12\u4ef6\u5373\u4eab4.5\u6298",
+                        "preHeat": "0",
+                        "brand_store_sn":
+                            "10013861,10011638,10028615,10028531,10024895,10030006",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2413866-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2413866&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2426469",
+                        "brand_name":
+                            "\u88c2\u5e1b\u96c6\u56e2\u65d7\u4e0b\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521338399",
+                        "agio":
+                            "<span class=\"salebg2\">1.4</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/05/90/ias_152023354657025_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/05/154/ias_152023354739329_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62538.5\u6298,\u6ee12\u4ef6\u62538\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10004555",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/b123d409baec4fde87b76bf07fc42cf0/10004555/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2426469-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2426469&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2415686",
+                        "brand_name":
+                            "\u7279\u60e0-\u767e\u4f9d\u79c0\u5b50Baiyixiuzi\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">0.6</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/06/19/ias_152030475271366_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/06/97/ias_152030475158513_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10006541",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/3d20ca4cf3124e7db4d103284c491e6d/10006541/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2415686-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2415686&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2155979",
+                        "brand_name":
+                            "5\u6298\u6625\u590f\u6e05\u4ed3\u5927\u4f1a",
+                        "sell_time_from": "1515376800",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">0.8</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/01/05/22/ias_151514320186375_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/01/05/45/ias_151514320113790_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u7269\u5373\u4eab\u6298\u4e0a5\u6298\u4f18\u60e0",
+                        "preHeat": "0",
+                        "brand_store_sn":
+                            "10006541,10029710,10010539,10028408,10005670,10026294,10012304,10000706,10029680,10006116",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2155979-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2155979&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2444586",
+                        "brand_name": "1\u4ef65\u6298-\u6e05\u4ed3\u5b63",
+                        "sell_time_from": "1520560800",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.4</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/08/115/ias_152049581369741_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/08/167/ias_152049569994356_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u7269\u5373\u4eab\u6298\u4e0a5\u6298\u4f18\u60e0",
+                        "preHeat": "0",
+                        "brand_store_sn":
+                            "10014336,10003862,10028423,10029899,10029904",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2444586-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2444586&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2429580",
+                        "brand_name":
+                            "\u5168\u573a5\u6298 \u7ec8\u6781\u6e05\u4ed3",
+                        "sell_time_from": "1520251200",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.1</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/02/27/ias_151998207773958_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/02/149/ias_151998207887066_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u7269\u5373\u4eab\u6298\u4e0a5\u6298\u4f18\u60e0",
+                        "preHeat": "0",
+                        "brand_store_sn": "10024312,10020697",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2429580-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2429580&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2181202",
+                        "brand_name":
+                            "NYSENSE&evona\u6cd5\u56fd\u8f7b\u5962\u5973\u88c5\u6e05\u4ed3\u4e13\u573a",
+                        "sell_time_from": "1520820000",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">0.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/13/82/ias_152091970777478_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/08/191/ias_152050460245409_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10007048,10015063",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2181202-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2181202&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2411610",
+                        "brand_name":
+                            "\u534a\u4ef7\u68ee\u9a6c\u5973\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.9</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/05/178/ias_152024481719918_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/05/100/ias_152024481712750_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10004116",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/f030102bd53047c6b7b6d9e25d9f88e7/10004116/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2411610-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2411610&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2190597",
+                        "brand_name": "A21\u5973\u88c5\u95ea\u8d2d\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1521079200",
+                        "agio":
+                            "<span class=\"salebg2\">2.9</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/05/185/ias_152024764356783_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/05/169/ias_152024764287064_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62538\u6298,\u6ee12\u4ef6\u62537\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10016360",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/43e47c21a5ff4130b6ef6da7d357135e/10016360/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2190597-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2190597&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "9503204",
+                        "brand_name":
+                            "\u6625\u4e0a\u65b0 \u624b\u8868\u914d\u9970",
+                        "sell_time_from": "1520820000",
+                        "sell_time_to": "1520992740",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/Xjs1B62uoJ2yoUamvGZ1Nw.php?wapid=mst_4055355&_src=mst&page_msg=VIP_SH-all-pre&extra_banner=9503204&mst_cdi=1&extra_type=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/13/96/4c15cf6b08d647ac7014192fdef711eb_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/13/96/4c15cf6b08d647ac7014192fdef711eb_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/Xjs1B62uoJ2yoUamvGZ1Nw.php&h=mst.vip.com&wapid=mst_4055355&page_msg=VIP_SH-all-pre&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FXjs1B62uoJ2yoUamvGZ1Nw.php%3Fwapid%3Dmst_4055355%26_src%3Dmst%26page_msg%3DVIP_SH-all-pre%26extra_banner%3D9503204%26mst_cdi%3D1%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "9454053",
+                        "brand_name": "3.16\u6625\u4e0a\u65b0",
+                        "sell_time_from": "1520179200",
+                        "sell_time_to": "1521165599",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/jjn3xJ-FQ4avFkNHeuJzoA.php?wapid=mst_3890053&_src=mst&page_msg=VIP_SH-all-pre&extra_banner=9454053&mst_cdi=1&extra_type=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/11/103/4c5394981ad8bf092f9b377b88cf9306_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/11/103/4c5394981ad8bf092f9b377b88cf9306_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/jjn3xJ-FQ4avFkNHeuJzoA.php&h=mst.vip.com&wapid=mst_3890053&page_msg=VIP_SH-all-pre&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2Fjjn3xJ-FQ4avFkNHeuJzoA.php%3Fwapid%3Dmst_3890053%26_src%3Dmst%26page_msg%3DVIP_SH-all-pre%26extra_banner%3D9454053%26mst_cdi%3D1%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "9546308",
+                        "brand_name":
+                            "\u6b27\u83b1\u96c5\u96c6\u56e2\u54c1\u724c\u949c\u732e",
+                        "sell_time_from": "1520733600",
+                        "sell_time_to": "1521028799",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/JTLOjNJIknW7e4bagzdeSQ.php?wapid=mst_4176410&_src=mst&page_msg=VIP_SH-all-pre&extra_banner=9546308&mst_cdi=1&extra_type=1&rn=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/13/58/eea4feb6b800ebe7efa6978d22312b85_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/13/58/eea4feb6b800ebe7efa6978d22312b85_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/JTLOjNJIknW7e4bagzdeSQ.php&h=mst.vip.com&wapid=mst_4176410&page_msg=VIP_SH-all-pre&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FJTLOjNJIknW7e4bagzdeSQ.php%3Fwapid%3Dmst_4176410%26_src%3Dmst%26page_msg%3DVIP_SH-all-pre%26extra_banner%3D9546308%26mst_cdi%3D1%26extra_type%3D1%26rn%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2361235",
+                        "brand_name":
+                            "\u521d\u8bed\u5973\u88c5\u548c\u7ae5\u88c5\u7ec4\u8d27\u4e13\u573a",
+                        "sell_time_from": "1520560800",
+                        "sell_time_to": "1521165599",
+                        "agio":
+                            "<span class=\"salebg2\">1.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/02/175/ias_151995555522147_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/01/31/110/ias_151738852283907_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u72691\u4ef6\u5373\u4eab7\u6298\u4f18\u60e0",
+                        "preHeat": "0",
+                        "brand_store_sn": "10008016",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": null,
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/803b06ae8c0348748bddf383b3634c48/toyouth.png",
+                        "logo": null,
+                        "raw_url": "/brand-2361235-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2361235&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2378276",
+                        "brand_name":
+                            "GXG.KIDS\u7537\u5973\u7ae5\u88c5\u4e13\u573a",
+                        "sell_time_from": "1520820000",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">2.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/05/14/ias_152023810338904_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/122/ias_152057708923671_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee12\u4ef6\u62538\u6298,\u6ee13\u4ef6\u62537\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10007996",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/7a7c3cbc3739430b955c72491161a63e/10007996/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2378276-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2378276&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2401569",
+                        "brand_name":
+                            "\u7279\u60e0-\u7f8e\u56fd\u82b1\u96e8\u4f1e\u4fdd\u6696\u5185\u8863&\u5bb6\u5c45\u670d\u95ea\u8d2d\u4e13\u573a",
+                        "sell_time_from": "1520596800",
+                        "sell_time_to": "1522461599",
+                        "agio":
+                            "<span class=\"salebg2\">0.7</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/02/26/170/ias_151963224275126_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/02/26/141/ias_151963224376731_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee11\u4ef6\u62535\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000438",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/689343834ffb465194bbceb5dca818b2/10000438/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2401569-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2401569&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2352586",
+                        "brand_name":
+                            "\u6625\u65e5\u4f34\u5c65\u2014\u6ce2\u5c14\u8c1b\u5947BOERDIQI\u5973\u978b\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521511140",
+                        "agio":
+                            "<span class=\"salebg2\">2.5</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/12/79/ias_152082685662557_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/12/35/ias_152082685779494_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8de8\u54c1\u724c\u6ee1298\u51cf60\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10013224",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/255bb29f25dc4b8e9060214f2618452c/10013224/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2352586-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2352586&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "8430928",
+                        "brand_name":
+                            "\u65b0\u54c1\u724c\u5165\u9a7b \u5929\u5929\u65b0\u60ca\u559c",
+                        "sell_time_from": "1513130400",
+                        "sell_time_to": "1521172800",
+                        "agio": "<span></span>",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/tE0FwHGLqXDEX4xD3GSiwA.php?wapid=mst_3082103&_src=mst&page_msg=VIP_SH-all-onsale&extra_banner=8430928&mst_cdi=1&extra_type=1",
+                        "mobile_image_one":
+                            "//b.vimage1.com/upload/mst/2018/03/13/198/be24ef980ada4afcfd2f09f2b34538e3_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//b.vimage1.com/upload/mst/2018/03/13/198/be24ef980ada4afcfd2f09f2b34538e3_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips": "",
+                        "preHeat": "0",
+                        "brand_store_sn": "",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 3,
+                        "mobile_image_three": null,
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/te/v1/tE0FwHGLqXDEX4xD3GSiwA.php&h=mst.vip.com&wapid=mst_3082103&page_msg=VIP_SH-all-onsale&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FtE0FwHGLqXDEX4xD3GSiwA.php%3Fwapid%3Dmst_3082103%26_src%3Dmst%26page_msg%3DVIP_SH-all-onsale%26extra_banner%3D8430928%26mst_cdi%3D1%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2329259",
+                        "brand_name":
+                            "\u6d01\u4e3d\u96c5\u96c6\u56e2\u7279\u60e0\u4e13\u573a",
+                        "sell_time_from": "1520474400",
+                        "sell_time_to": "1520992740",
+                        "agio":
+                            "<span class=\"salebg2\">2.4</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/01/15/110/ias_151599796573332_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/01/22/103/ias_151662637180874_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8d2d\u7269\u5373\u4eab3.8\u6298\u4f18\u60e0",
+                        "preHeat": "0",
+                        "brand_store_sn": "10010067,10020314",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo": "",
+                        "logo": null,
+                        "raw_url": "/brand-2329259-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2329259&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2443359",
+                        "brand_name":
+                            "\u7279\u60e0-\u68ee\u6797\u516c\u4e3bForest Princess\u5973\u978b\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">1.8</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/10/92/ias_152066485511615_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/10/184/ias_152066485574469_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8de8\u54c1\u724c\u6ee1198\u51cf100\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10021388",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/b125fc8bf95c43799f14b371069062dd/10021388/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2443359-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2443359&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2298103",
+                        "brand_name":
+                            "\u9082\u9005\u7f8e\u5c65-\u9999\u9601\u513fXANGIRL\u5973\u978b\u4e13\u573a",
+                        "sell_time_from": "1520906400",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">2.6</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/09/107/ias_152058790126185_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/61/ias_152058790283462_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u8de8\u54c1\u724c\u6ee1498\u51cf100\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10015042",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/b65beb51de8a43cdaf9f57976d06c16d/10015042/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2298103-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2298103&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2441060",
+                        "brand_name":
+                            "\u5609\u5a9a\u4e50CAMENAE\u5316\u5986\u54c1\u4e13\u573a",
+                        "sell_time_from": "1520769600",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">1.6</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "http://mst.vip.com/visPg/vNrV26jNr0mgHGlR-Ytc0Q.php?wapid=vismst_4152787&_src=mst&page_msg=VIP_SH-all-onsale&mst_cdi=1&brand_id=2441060&extra_banner=2441060&extra_type=4&mst_page_type=guide",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/09/15/ias_152056350918908_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/09/181/ias_152056351077897_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1199\u51cf100\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10001140",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three":
+                            "/upcb/2018/03/09/157/ias_152056351070713.jpg",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/415bb65792bc4d5fae90aa706ab99705/10001140/primary.png",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/visPg/vNrV26jNr0mgHGlR-Ytc0Q.php&h=mst.vip.com&wapid=vismst_4152787&brand_id=2441060&mst_page_type=guide&page_msg=VIP_SH-all-onsale&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=http%3A%2F%2Fmst.vip.com%2FvisPg%2FvNrV26jNr0mgHGlR-Ytc0Q.php%3Fwapid%3Dvismst_4152787%26_src%3Dmst%26page_msg%3DVIP_SH-all-onsale%26mst_cdi%3D1%26brand_id%3D2441060%26extra_banner%3D2441060%26extra_type%3D4%26mst_page_type%3Dguide&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "backgroundCol": "",
+                        "backgroundPic": "",
+                        "motion": "NONE",
+                        "block": [
+                            {
+                                "cell": "row",
+                                "size": 100,
+                                "wapsize": 100,
+                                "child": [
+                                    {
+                                        "cell": "col",
+                                        "size": 100,
+                                        "wapsize": 100,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831416,
+                                            "imageUrl":
+                                                "//a4.vimage1.com/upload/flow/2018/03/12/34/15208424331010.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FeaT21xn7tuz3crnFZ0zaag.php%3Fwapid%3Dmst_4100976%26_src%3Dmst%26page_msg%3DVIP_NH-all-onsale%26extra_banner%3D9470586%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5607680",
+                                                "adsBannerId": "478848",
+                                                "groupId": "155417",
+                                                "imageIds": "5607680"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5607680",
+                                                    "path":
+                                                        "http://a.vpimg4.com/upload/flow/2018/03/12/34/15208424331010.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "f055d065cc2d8bd7b05717599f4686e1",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/eaT21xn7tuz3crnFZ0zaag.php?wapid=mst_4100976&_src=mst&page_msg=VIP_NH-all-onsale&extra_banner=9470586&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/eaT21xn7tuz3crnFZ0zaag.php&h=mst.vip.com&wapid=mst_4100976&mst_page_type=guide&page_msg=VIP_NH-all-onsale&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "layout_type": "col_in_row",
+                        "align_type": 0,
+                        "isOperation": 1,
+                        "code": "3282064",
+                        "operateType": "operate"
+                    },
+                    {
+                        "backgroundCol": "",
+                        "backgroundPic": "",
+                        "motion": "NONE",
+                        "block": [
+                            {
+                                "cell": "row",
+                                "size": 100,
+                                "wapsize": 100,
+                                "child": [
+                                    {
+                                        "cell": "col",
+                                        "size": 33.333333,
+                                        "wapsize": 33.333333,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831417,
+                                            "imageUrl":
+                                                "//a4.vimage1.com/upload/flow/2018/03/12/49/15208424576799.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2F7oXlp-0pUmeDKYQRv6WKzQ.php%3Fwapid%3Dmst_4102745%26_src%3Dmst%26page_msg%3DVIP_NH-all-onsale%26extra_banner%3D9471422%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5607694",
+                                                "adsBannerId": "478847",
+                                                "groupId": "155418",
+                                                "imageIds": "5607694"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5607694",
+                                                    "path":
+                                                        "http://a.vpimg4.com/upload/flow/2018/03/12/49/15208424576799.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "9f8c035d4d8543b32ac0a4a49c818a59",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/7oXlp-0pUmeDKYQRv6WKzQ.php?wapid=mst_4102745&_src=mst&page_msg=VIP_NH-all-onsale&extra_banner=9471422&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/7oXlp-0pUmeDKYQRv6WKzQ.php&h=mst.vip.com&wapid=mst_4102745&mst_page_type=guide&page_msg=VIP_NH-all-onsale&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    },
+                                    {
+                                        "cell": "col",
+                                        "size": 33.333333,
+                                        "wapsize": 33.333333,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831418,
+                                            "imageUrl":
+                                                "//a3.vimage1.com/upload/flow/2018/03/12/53/15208424827571.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FfTB5bgyWiqPFczCzRVx5zg.php%3Fwapid%3Dmst_4102555%26_src%3Dmst%26page_msg%3DVIP_NH-all-onsale%26extra_banner%3D9471287%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5607708",
+                                                "adsBannerId": "478846",
+                                                "groupId": "155418",
+                                                "imageIds": "5607708"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5607708",
+                                                    "path":
+                                                        "http://a.vpimg3.com/upload/flow/2018/03/12/53/15208424827571.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "b3fbede6de9ffb49c19ce5c241567505",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/fTB5bgyWiqPFczCzRVx5zg.php?wapid=mst_4102555&_src=mst&page_msg=VIP_NH-all-onsale&extra_banner=9471287&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/fTB5bgyWiqPFczCzRVx5zg.php&h=mst.vip.com&wapid=mst_4102555&mst_page_type=guide&page_msg=VIP_NH-all-onsale&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    },
+                                    {
+                                        "cell": "col",
+                                        "size": 33.333333,
+                                        "wapsize": 33.333333,
+                                        "paddingLeft": 0,
+                                        "paddingRight": 0,
+                                        "paddingTop": 0,
+                                        "paddingBottom": 0,
+                                        "data": {
+                                            "id": 3831419,
+                                            "imageUrl":
+                                                "//a4.vimage1.com/upload/flow/2018/03/12/166/15208424047365.jpg",
+                                            "targetAction": 1,
+                                            "targetParam":
+                                                "//weixin.vip.com/deeplink/showWebview?url=https%3A%2F%2Fmst.vip.com%2Fuploadfiles%2Fexclusive_subject%2Fte%2Fv1%2FtI2eac85ox2IFMzga5zl6A.php%3Fwapid%3Dmst_4092870%26_src%3Dmst%26page_msg%3DVIP_NH-all-onsale%26extra_banner%3D9458178%26mst_cdi%3D1%26mst_page_type%3Dguide%26extra_type%3D1&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                                            "displayType": "image",
+                                            "tracking": "",
+                                            "buryPoint": {
+                                                "imageId": "5607715",
+                                                "adsBannerId": "478845",
+                                                "groupId": "155418",
+                                                "imageIds": "5607715"
+                                            },
+                                            "videoUrl": "",
+                                            "videoTitle": "",
+                                            "images": [
+                                                {
+                                                    "id": "5607715",
+                                                    "path":
+                                                        "http://a.vpimg4.com/upload/flow/2018/03/12/166/15208424047365.jpg"
+                                                }
+                                            ],
+                                            "opz_unid":
+                                                "c374ccbda9f71c4703dbdc43762aba74",
+                                            "extra_data": { "status": "-1" },
+                                            "jumper": {
+                                                "targetAction": 2,
+                                                "targetParams": {
+                                                    "url":
+                                                        "https://mst.vip.com/uploadfiles/exclusive_subject/te/v1/tI2eac85ox2IFMzga5zl6A.php?wapid=mst_4092870&_src=mst&page_msg=VIP_NH-all-onsale&extra_banner=9458178&mst_cdi=1&mst_page_type=guide&extra_type=1"
+                                                }
+                                            },
+                                            "raw_url":
+                                                "/special.html?p=/te/v1/tI2eac85ox2IFMzga5zl6A.php&h=mst.vip.com&wapid=mst_4092870&mst_page_type=guide&page_msg=VIP_NH-all-onsale&_src=mst&mst_cdi=1",
+                                            "isDeeplink": 1
+                                        },
+                                        "timer": {
+                                            "endTime": "",
+                                            "eventAfter": "",
+                                            "style": "",
+                                            "row": "",
+                                            "col": "",
+                                            "document": null
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "layout_type": "col_in_row",
+                        "align_type": 0,
+                        "isOperation": 1,
+                        "code": "3282065",
+                        "operateType": "operate"
+                    },
+                    {
+                        "brand_id": "2423250",
+                        "brand_name":
+                            "\u9e3f\u661f\u5c14\u514bERKE\u8fd0\u52a8\u7279\u60e0\u4e13\u573a",
+                        "sell_time_from": "1520215200",
+                        "sell_time_to": "1521129600",
+                        "agio":
+                            "<span class=\"salebg2\">1.8</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/02/166/ias_151996849375604_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2017/10/31/63/ias_150943648341739_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee12\u4ef6\u62537\u6298,\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10000434",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three": "",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/67ac444729a542fc97ff30965c6728ff/10000434/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2423250-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2423250&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2440719",
+                        "brand_name": "DHC\u5316\u5986\u54c1\u4e13\u573a",
+                        "sell_time_from": "1520769600",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">5.3</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 0,
+                        "special_field_value": "",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/06/11/ias_152033136971867_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/06/14/ias_152033137044140_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1200\u51cf50\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10015781",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three":
+                            "/upcb/2018/03/06/22/ias_152033137086792.jpg",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/aa2af3594bd74512b686e9b09f7860fb/10015781/primary.png",
+                        "logo": null,
+                        "raw_url": "/brand-2440719-0-0-0-1-0-1-20.html",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showBrandProducts?brandId=2440719&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    },
+                    {
+                        "brand_id": "2442300",
+                        "brand_name":
+                            "\u74f7\u5986CHARM ZENUS\u5f69\u5986\u4e13\u573a",
+                        "sell_time_from": "1520769600",
+                        "sell_time_to": "1521165540",
+                        "agio":
+                            "<span class=\"salebg2\">1.4</span>\u6298\u8d77",
+                        "warehouse": "VIP_SH",
+                        "banner_image_url": "",
+                        "special_field": 3,
+                        "special_field_value":
+                            "http://mst.vip.com/visPg/eMB9mrwhtk8hyDIc76-T0w.php?wapid=vismst_4163452&_src=mst&page_msg=VIP_SH-all-onsale&mst_cdi=1&brand_id=2442300&extra_banner=2442300&extra_type=4&mst_page_type=guide",
+                        "mobile_image_one":
+                            "//a.vimage1.com/upcb/2018/03/12/49/ias_152081670877877_604x290_80.jpg",
+                        "mobile_image_two":
+                            "//a.vimage1.com/upcb/2018/03/05/38/ias_152021413974027_604x290_80.jpg",
+                        "icon": "",
+                        "iconPosition": 0,
+                        "pms_activetips":
+                            "\u6ee1199\u51cf100\uff0c\u4e0a\u4e0d\u5c01\u9876",
+                        "preHeat": "0",
+                        "brand_store_sn": "10022306",
+                        "actionType": 0,
+                        "realBrandId": 0,
+                        "type": 0,
+                        "brand_type": 2,
+                        "mobile_image_three":
+                            "/upcb/2018/02/27/184/ias_151972271175705.jpg",
+                        "brandStoreLogo":
+                            "//a3.vimage1.com/upload/brandcool/0/c568af231f5841c387c2e6a34b1a4666/10022306/primary.png",
+                        "logo": null,
+                        "raw_url":
+                            "/special.html?p=/visPg/eMB9mrwhtk8hyDIc76-T0w.php&h=mst.vip.com&wapid=vismst_4163452&brand_id=2442300&mst_page_type=guide&page_msg=VIP_SH-all-onsale&_src=mst&mst_cdi=1",
+                        "detailurl":
+                            "//weixin.vip.com/deeplink/showWebview?url=http%3A%2F%2Fmst.vip.com%2FvisPg%2FeMB9mrwhtk8hyDIc76-T0w.php%3Fwapid%3Dvismst_4163452%26_src%3Dmst%26page_msg%3DVIP_SH-all-onsale%26mst_cdi%3D1%26brand_id%3D2442300%26extra_banner%3D2442300%26extra_type%3D4%26mst_page_type%3Dguide&tra_from=m%3Ai%3A1519456550576_599de84c2e7a6c14912198b3a1713c52%3Ac%3A%3Adeeplink%3Aclassify&from=m&device=i&cid=1519456550576_599de84c2e7a6c14912198b3a1713c52&f=nature%3A0%3Aclassify&other=deeplink&mref=classify",
+                        "isDeeplink": 1
+                    }
+                ],
+                "channel_id": 1,
+                "tsift": 1,
+                "menu_id": 1360,
+                "menu_name": "\u4eca\u65e5\u63a8\u8350",
+                "menu_tag": "index.html",
+                "menu_mars": "index.html",
+                "isWeixin": false,
+                "f": ""
+            },
+            "_format_": 1
+        },
+        "time": 1520949471,
+        "hash": "ac9cd1cd",
+        "id": 1520949479723
+    }
+]

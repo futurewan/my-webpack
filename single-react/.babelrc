@@ -1,0 +1,13 @@
+{
+    "presets": [["es2015", { "modules": false }], "react"],
+    "plugins": [
+        [
+            "import",
+            {
+                "style": "css",
+                "libraryName": "antd-mobile"
+            }
+        ],
+        ["transform-object-rest-spread"]
+    ]
+}
